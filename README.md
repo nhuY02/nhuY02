@@ -1,24 +1,24 @@
-# Xin chào, mình là Như Ý 👋
+# Hi, I'm Như Ý 👋
 
-Sinh viên năm cuối Công nghệ thông tin (Đại học Sài Gòn), nền tảng software engineering,
-đang theo học chương trình **VinUni AI Thực Chiến – Track 4: Computer Vision & Robotics**.
-Mình quan tâm đến việc ứng dụng AI và thị giác máy tính vào y tế và tự động hóa.
+Final-year Information Technology student at Saigon University with a software engineering background,
+currently enrolled in the **VinUni AI Thực Chiến program – Track 4: Computer Vision & Robotics**.
+I'm interested in applying AI and computer vision to healthcare and automation.
 
-## 🔭 Mình đang làm
-- AI Agent tư vấn và bán xe máy điện (project nhóm, LangGraph + RAG + FastAPI + React)
-- Tìm cơ hội thực tập AI / Computer Vision
+## 🔭 Currently working on
+- An AI agent for electric motorbike consulting and sales (team project: LangGraph + RAG + FastAPI + React)
+- Looking for an AI / Computer Vision internship
 
-## 🧪 Dự án nổi bật
-| Dự án | Nội dung |
+## 🧪 Featured projects
+| Project | Description |
 |---|---|
-| [2D Perception](https://github.com/nhuY02/Track04-Day18-2D-perception-detection-segmentation-keypoints.git) | Detection, segmentation, pose; tự viết IoU, NMS, OKS; auto-label bằng YOLO + SAM 2.1; fine-tune YOLO-pose |
-| [Multi-Object Tracking](https://github.com/nhuY02/K4-Track4-Day22-Tracking-Student.git) | So sánh ByteTrack, OC-SORT, BoT-SORT, StrongSORT trên 5 cảnh video, đánh giá HOTA/MOTA/IDF1 |
-| [Kalman Filter Fusion](https://github.com/nhuY02/K4-Track4-Day5-TranThiNhuY-2A202602372.git) | Kalman filter bằng NumPy, hợp nhất LiDAR + radar + camera, chẩn đoán lỗi cảm biến bằng NIS |
-| [LiDAR–Camera Projection](https://github.com/nhuY02/TranThiNhuY-2A202602372-Track4-Day21.git) | Chiếu point cloud lên ảnh, kiểm tra calibration trên KITTI / nuScenes |
-| [Sensor Fusion on Waymo](https://github.com/nhuY02/K4-L2L3-DAY23-TranThiNhuY-2A202602372-SensorFusion.git) | EKF 6D, gán đo Mahalanobis, tracking xe LiDAR + camera |
-| [RAG Chatbot](https://github.com/nhuY02/K4-L3A-RAG-Pipeline-DaiDaiDi.git) | Hybrid retrieval (dense + BM25 + RRF), có citation, đánh giá trên golden dataset |
+| [2D Perception](https://github.com/nhuY02/Track04-Day18-2D-perception-detection-segmentation-keypoints) | Detection, segmentation, and pose estimation; implemented IoU, NMS, and OKS from scratch; auto-labeling with YOLO + SAM 2.1; fine-tuned YOLO-pose |
+| [Multi-Object Tracking](https://github.com/nhuY02/K4-Track4-Day22-Tracking-Student) | Compared ByteTrack, OC-SORT, BoT-SORT, and StrongSORT on 5 video scenarios; evaluated with HOTA/MOTA/IDF1 |
+| [Kalman Filter Fusion](https://github.com/nhuY02/K4-Track4-Day5-TranThiNhuY-2A202602372) | Kalman filter in NumPy, LiDAR + radar + camera fusion, sensor fault diagnosis with NIS |
+| [LiDAR–Camera Projection](https://github.com/nhuY02/TranThiNhuY-2A202602372-Track4-Day21) | Projected point clouds onto images and checked calibration on KITTI / nuScenes |
+| [Sensor Fusion on Waymo](https://github.com/nhuY02/K4-L2L3-DAY23-TranThiNhuY-2A202602372-SensorFusion) | 6D EKF, Mahalanobis data association, LiDAR + camera vehicle tracking |
+| [RAG Chatbot](https://github.com/nhuY02/K4-L3A-RAG-Pipeline-DaiDaiDi) | Hybrid retrieval (dense + BM25 + RRF) with citations, evaluated on a golden dataset |
 
-## 🛠️ Kỹ năng
+## 🛠️ Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
@@ -26,6 +26,6 @@ Mình quan tâm đến việc ứng dụng AI và thị giác máy tính vào y 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
 
-## 📫 Liên hệ
-Email: your-email@example.com
-Phone: +84
+## 📫 Contact
+- **Email:** your-email@example.com
+- **Phone:** +84
