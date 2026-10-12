@@ -27,5 +27,5 @@ I'm interested in applying AI and computer vision to healthcare and automation.
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
 
 ## 📫 Contact
-- **Email:** nhuytran264804gmail.com
-- **Phone:** +84 899533812
+- **Email:** xxx@gmail.com
+- **Phone:** +84 898651227
