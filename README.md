@@ -1,4 +1,4 @@
-# Hi, I'm Như Ý 👋
+# Hi, I'm Lỏ 👋
 
 Final-year Information Technology student at Saigon University with a software engineering background,
 currently enrolled in the **VinUni AI Thực Chiến program – Track 4: Computer Vision & Robotics**.
@@ -27,5 +27,5 @@ I'm interested in applying AI and computer vision to healthcare and automation.
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
 
 ## 📫 Contact
-- **Email:** your-email@example.com
-- **Phone:** +84
+- **Email:** codelor2604.com
+- **Phone:** +84 898651227
