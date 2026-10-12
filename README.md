@@ -1,6 +1,6 @@
-# Hi, I'm Lỏ 👋
+# Hi, I'm NhuY 👋
 
-Final-year Information Technology student at Saigon University with a software engineering background,
+Final-year Information Technology student at Saigon University with a software engineering background, 
 currently enrolled in the **VinUni AI Thực Chiến program – Track 4: Computer Vision & Robotics**.
 I'm interested in applying AI and computer vision to healthcare and automation.
 
