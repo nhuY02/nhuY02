@@ -27,5 +27,5 @@ I'm interested in applying AI and computer vision to healthcare and automation.
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
 
 ## 📫 Contact
-- **Email:** codelor2604.com
+- **Email:** codelor2604@gmail.com
 - **Phone:** +84 898651227
